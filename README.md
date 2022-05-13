@@ -1,1 +1,2 @@
-Repository code program belajar pemrograman PYTHON dasar
+# Pemrograman Python Dasar
+Repository kumpulan code program belajar pemrograman PYTHON dasar
