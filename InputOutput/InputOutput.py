@@ -1,6 +1,6 @@
 # Fungsi INPUT
 
-# Ketik nama sebagai input
+# Ketik nama sebagai input berupa string
 '''
 nama = input("Masukkan nama Anda: ")
 print(nama)
@@ -22,7 +22,7 @@ hasil = dataIn1 * dataIn2
 print(hasil)
 '''
 
-# Input yang diketik berupa string, bukan int atau float
+# Input yang diketik berupa string, bukan int atau float.
 # Supaya tidak error, konversi dulu string menjadi int atau float
 """
 dataIn1 = input("Angka1: ")
