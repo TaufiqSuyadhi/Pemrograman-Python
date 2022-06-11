@@ -1,0 +1,3 @@
+Identifier dan Keywords dalam bahasa pemrograman Python
+
+Video tutorial: https://www.youtube.com/watch?v=wu5-NCBfqyE&list=PLy3VBpgdBFy6XpB2zTIMqdosN2g-lw0O_&index=6
