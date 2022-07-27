@@ -1,5 +1,7 @@
 # Kontrol Program - For
 
+# Uncomment blok program contoh yang akan dijalankan!
+
 '''
 # Menampilkan isi suatu list dengan perulangan "for"
 # Perulangan berdasar data suatu list
