@@ -1,5 +1,7 @@
 # Kontrol Program - While
 
+# Uncomment blok program contoh yang akan dijalankan!
+
 '''
 # Perulangan While - Berbatas
 kalimat=input("Masukkan data: ")
