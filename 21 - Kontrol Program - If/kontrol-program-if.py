@@ -1,5 +1,7 @@
 # Kontrol Program IF
 
+# Uncomment blok program contoh yang akan dijalankan!
+
 # Menghitung jumlah elemen tertetu di dalam suatu list
 
 '''
